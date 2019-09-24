@@ -1,0 +1,10 @@
+eagle_attack.gif|0.1 0.1 0.1 0.1 
+frog_idle.gif|1 0.1 0.1 0.1 
+frog_jump.gif|0.1 0.1 0.1 
+opossum_walk.gif|0.1 0.1 0.1 0.1 0.1 0.1 
+player_climb.gif|0.1 0.1 0.1 0.1 0.1 
+player_crouch.gif|0.1 0.1 0.1 
+player_hurt.gif|0.1 0.06 0.06 0.06 0.06 0.06 0.06 0.06 0.06 0.06 0.06 
+player_idle.gif|0.1 0.1 0.1 0.1 
+player_jump.gif|0.1 0.1 0.1 
+player_run.gif|0.1 0.1 0.1 0.1 0.1 0.1 
